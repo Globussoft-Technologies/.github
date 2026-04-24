@@ -17,7 +17,7 @@
 
 ## About Us
 
-**Globussoft Technologies** is a product-first software company that designs, builds, and ships AI-powered SaaS products across CRM, healthcare, media, advertising analytics, and vertical ERP markets. We are a team of 25+ engineers, designers, and product thinkers who believe great software should be fast, intelligent, and beautiful.
+**Globussoft Technologies** is a product-first software company that designs, builds, and ships AI-powered SaaS products across CRM, healthcare, media, advertising analytics, and vertical ERP markets. We are a team of 500+ engineers, designers, and product thinkers across Bhilai and Bangalore who believe great software should be fast, intelligent, and beautiful.
 
 We operate a portfolio of products, each solving a specific industry problem at scale, powered by modern tech stacks including TypeScript, React, Python, Kotlin, PHP, and more.
 
@@ -66,7 +66,7 @@ We operate a portfolio of products, each solving a specific industry problem at 
 
 ---
 
-## For New Developers — Getting Started
+## For New Developers — Getting Startedh
 
 Welcome to Globussoft Technologies! Here is everything you need to hit the ground running.
 
