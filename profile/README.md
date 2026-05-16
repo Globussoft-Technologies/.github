@@ -17,28 +17,55 @@
 
 ## About Us
 
-**Globussoft Technologies** is a product-first software company that designs, builds, and ships AI-powered SaaS products across CRM, healthcare, media, advertising analytics, and vertical ERP markets. We are a team of 500+ engineers, designers, and product thinkers across Bhilai and Bangalore who believe great software should be fast, intelligent, and beautiful.
+**Globussoft Technologies** is a product-first software company that designs, builds, and ships AI-powered SaaS products across CRM, healthcare, media, advertising analytics, surveillance, and vertical ERP markets. We are a team of 500+ engineers, designers, and product thinkers across Bhilai and Bangalore who believe great software should be fast, intelligent, and beautiful.
 
-We operate a portfolio of products, each solving a specific industry problem at scale, powered by modern tech stacks including TypeScript, React, Python, Kotlin, PHP, and more.
+We operate a portfolio of **40+ repositories** spanning open-source flagship products, AI/ML platforms, mobile apps, and client engagements, powered by modern tech stacks including TypeScript, React, Python, Kotlin, PHP, Swift, and more.
+
+---
+
+## 🚀 Recent Highlights (2026)
+
+- **🆕 [VideoraIQ](https://github.com/Globussoft-Technologies/videoraiq-ai)** — AI-driven surveillance with face attendance + workforce monitoring + real-time alerts. Public companion to our private commercial build.
+- **🆕 [MedCore](https://github.com/Globussoft-Technologies/medcore)** — open-source hospital management system (HMS) for clinics and hospitals. New flagship in the healthcare vertical.
+- **🔥 [Globussoft CRM](https://github.com/Globussoft-Technologies/globussoft-crm)** v3.7.16 — multi-tenant CRM with verticals (generic + wellness), full e2e validation suite (~4,400+ tests on every push), AI orchestration engine, and an [AI-era rebuild PRD](https://github.com/Globussoft-Technologies/globussoft-crm/blob/main/docs/PRD_AI_ERA_CRM_REBUILD.md) charting the path to semantic system-of-record + multi-agent framework + conversational interface.
+- **📞 [Callified](https://github.com/Globussoft-Technologies/callified)** — Generative AI dialer continuing rapid iteration; integrates with 100+ CRMs.
+- **💎 [CaratFlow](https://github.com/Globussoft-Technologies/caratflow)** — jewelry ERP platform with inventory, manufacturing, POS, accounting, e-commerce, and compliance — purpose-built for jewelers worldwide.
+- **🎓 [Globussoft School MIS](https://github.com/Globussoft-Technologies/globussoft-school-mis)** — open-source school management with 75+ feature modules and 11+ user roles.
 
 ---
 
 ## Our Products
 
-| Product | Description | Stack | Visibility |
-|---------|-------------|-------|-----------|
-| [**callified**](https://github.com/Globussoft-Technologies/callified) | Generative AI dialer for CRMs. AI robo-dials leads, qualifies them, and hands off to SDRs. Works with 100+ CRMs. | Python | Public |
-| [**globussoft-crm**](https://github.com/Globussoft-Technologies/globussoft-crm) | Open-source CRM to track leads, manage contacts, and automate sales pipelines | JavaScript | Public |
-| [**caratflow**](https://github.com/Globussoft-Technologies/caratflow) | Complete jewelry ERP platform covering inventory, manufacturing, retail POS, accounting, CRM, and e-commerce for jewelers worldwide | TypeScript / React | Public |
-| [**globussoft-school-mis**](https://github.com/Globussoft-Technologies/globussoft-school-mis) | Open-source School Management System with 75+ modules, 11 user roles, LMS, Finance, HR, and admin portals | TypeScript | Public |
-| [**medcore**](https://github.com/Globussoft-Technologies/medcore) | Modern healthcare platform | TypeScript | Public |
-| [**voyagr**](https://github.com/Globussoft-Technologies/voyagr) | Travel experience platform | TypeScript | Public |
-| **adsgpt** | Generative AI for ad creation and optimization | JavaScript | Private |
-| **poweradspy** | AI-powered ad analytics and competitive intelligence tool | PHP | Private |
-| **globusphone** | Mobile communication app | Kotlin | Private |
-| **smashify** | Social / media engagement platform | JavaScript | Private |
-| **videoraiq** | AI-driven video intelligence platform | JavaScript | Private |
-| **socialX** | Social automation toolkit | C# | Private |
+### Public (open source — AGPL v3.0)
+
+| Product | Description | Stack |
+|---------|-------------|-------|
+| [**globussoft-crm**](https://github.com/Globussoft-Technologies/globussoft-crm) | Multi-tenant CRM with vertical configurations (generic + wellness). Tracks leads, manages contacts, automates pipelines. Partner API for sister products. AI orchestration engine. | JavaScript / React / Node.js / MySQL |
+| [**medcore**](https://github.com/Globussoft-Technologies/medcore) | Open-source hospital management system (HMS) for clinics and hospitals | TypeScript |
+| [**callified**](https://github.com/Globussoft-Technologies/callified) | Generative AI dialer for CRMs. AI robo-dials leads, qualifies them, and hands off to SDRs. Works with 100+ CRMs. | Python |
+| [**caratflow**](https://github.com/Globussoft-Technologies/caratflow) | Jewelry ERP — inventory, manufacturing, retail POS, accounting, CRM, e-commerce, compliance | TypeScript |
+| [**globussoft-school-mis**](https://github.com/Globussoft-Technologies/globussoft-school-mis) | School Management System with 75+ modules, 11 user roles, LMS, Finance, HR, admin portals | TypeScript |
+| [**videoraiq-ai**](https://github.com/Globussoft-Technologies/videoraiq-ai) | AI-based video surveillance tool (public sibling of the commercial VideoraIQ build) | JavaScript |
+| [**voyagr**](https://github.com/Globussoft-Technologies/voyagr) | Travel experience platform | TypeScript |
+
+### Private (commercial / proprietary)
+
+| Product | Description | Stack |
+|---------|-------------|-------|
+| **videoraiq** | AI-powered CCTV surveillance, face attendance, workforce monitoring with real-time alerts | JavaScript |
+| **adsgpt** | Generative AI for ad creation and optimization | JavaScript |
+| **poweradspy** | AI-powered ad analytics and competitive intelligence | PHP |
+| **globusphone** | Mobile communication app | Kotlin |
+| **smashify** | Social / media engagement platform | JavaScript |
+| **socialX** | Social automation toolkit | C# |
+| **billing-automation-software** | Automated billing platform | JavaScript |
+| **empmonitor-sales-audit** | Sales-call audit + ICP analysis for the EmpMonitor product, driven by Fathom recordings | Python |
+| **dominator** | Domintor product suite | JavaScript |
+| **gbslinkbuildingengine** | SEO link-building engine | — |
+| **kamh**, **infiuence**, **QR-Code-Maker**, **MyLinkie**, **TipeeJar**, **djfy**, **growthcloud**, **socinator** | Internal tooling + smaller product lines | C# / Swift / Blade / various |
+| **Hitsradio_2.0** (`-IOS`, `-Android`, `hitsradio-2.0`) | Radio streaming app (iOS, Android, web triad) | Swift / Java / JavaScript |
+
+*Plus client-engagement repositories — separately scoped, not part of the product portfolio.*
 
 ---
 
@@ -66,7 +93,7 @@ We operate a portfolio of products, each solving a specific industry problem at 
 
 ---
 
-## For New Developers — Getting Startedh
+## For New Developers — Getting Started
 
 Welcome to Globussoft Technologies! Here is everything you need to hit the ground running.
 
